@@ -3,7 +3,7 @@ import numpy as np
 
 # Create a sample dataset
 data = {
-    'Name': ['Alice', 'Bob', 'Charlie', 'David', 'Eve'],
+    'Name': ['Sanchana', 'Bob', 'Charlie', 'David', 'Eve'],
     'Age': [25, 30, 35, 28, 32],
     'Salary': [50000, 60000, 75000, 55000, 70000],
     'Department': ['Sales', 'IT', 'HR', 'Sales', 'IT']
